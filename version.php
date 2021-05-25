@@ -29,7 +29,7 @@
  */
 defined('MOODLE_INTERNAL') || die();
 $plugin->version   = 2018082402;            // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2018050200;            // Moodle 3.5 onwards.
+$plugin->requires  = 2017051509;            // Moodle 3.5 onwards.
 $plugin->component = 'local_mass_enroll';   // Full name of the plugin (used for diagnostics).
 $plugin->maturity  = MATURITY_STABLE;       // Required for registering to Moodle's database of plugins.
 $plugin->release   = '3.6.0 (Build 2018082406)';// Required for registering to Moodle's database of plugins.
